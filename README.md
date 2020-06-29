@@ -1,10 +1,12 @@
 Requirements:
+
     1. Java 1.8
     2. Docker
     3. Maven 3.6
     4. PostgreSQL
 
 Install component:
+
     1. With Docker:
         1.1. Move to project folder, example: cd C:\Users\user\techtest
         1.2. Run the command: docker-compose up --build (Docker must be installed).
@@ -25,6 +27,7 @@ Enpoint to consume service:
     localhost:8080/api/order/db
 
 Request example:
+
     {
         "clientId": 1,
         "date": "2020-06-28",
@@ -44,6 +47,7 @@ Request example:
     }
     
 Response:
+
     {
         "numOrder": 145942,
         "totalOrder": 300000.0,
