@@ -24,6 +24,8 @@ To run the component without a database it is necessary to remove / comment all 
 
 
 Enpoint to consume service:
+
+    Type: POST
     localhost:8080/api/order/db
 
 Request example:
