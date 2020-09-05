@@ -22,6 +22,8 @@ Install component:
 Test hotfix
 
 Test Feature1
+
+Test Feature2
         
 To run the component without a database it is necessary to remove / comment all the classes of the Entity and Repository packages.
 
