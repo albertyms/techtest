@@ -19,6 +19,7 @@ Install component:
         2.2. Move to the root folder of the project: cd C:\Users\user\techtest\target
         2.3. Run the following command: mvn spring-boot:run
         
+Test hotfix
         
 To run the component without a database it is necessary to remove / comment all the classes of the Entity and Repository packages.
 
