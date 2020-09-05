@@ -20,6 +20,8 @@ Install component:
         2.3. Run the following command: mvn spring-boot:run
         
 Test hotfix
+
+Test Feature1
         
 To run the component without a database it is necessary to remove / comment all the classes of the Entity and Repository packages.
 
